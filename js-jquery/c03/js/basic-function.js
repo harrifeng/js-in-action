@@ -3,8 +3,8 @@
  */
 var msg = 'Sign up to receive our newsletter for 10% off!';
 
-function area() {
-    return "size is 100";
+var area = function () {
+    return 'size is 99'
 };
 
 msg = area();
