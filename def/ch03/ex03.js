@@ -3,7 +3,7 @@ console.log(x);
 
 console.log(Number.POSITIVE_INFINITY);
 
-console.log(1/0);
+console.log(1 / 0);
 
 console.log(Number.MAX_VALUE);
 
